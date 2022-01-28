@@ -10,7 +10,9 @@ V. Isualize has given you and Omar a brand-new assignment. Using your Python ski
 
 ## Results
 
-![Graph of Total Fares by City Type](/analysis/PyBer_fare_summary.png)
+![Graph of Total Fares by City Type](/analysis/Pyber_fare_summary.png)
+
+
 
 
 
